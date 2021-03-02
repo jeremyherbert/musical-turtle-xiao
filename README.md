@@ -14,11 +14,11 @@ It is designed to be used with the [seeeduino xiao](http://wiki.seeedstudio.com/
 
 ## Flashing the musical-turtle-xiao firmware
 
-1. Download the firmware file `musical-turtle-xiao.uf2` from the [releases](https://github.com/jeremyherbert/musical-turtle-xiao/releases) section of this repository.
+1. Download the firmware file `musical-turtle.uf2` from the [releases](https://github.com/jeremyherbert/musical-turtle-xiao/releases) section of this repository.
 2. Connect your seeeduino xiao to your computer with a USB C cable.
 3. Force your device into bootloader mode. To do this, you need to take a wire and connect the RST and GND pads together **twice** in quick succession. These two pads are located next to the USB connector on the board. See the animation at the end of this list for an example.
 4. A new USB storage device will appear connected to your computer (likely called "ARDUINO" or something similar)
-5. Copy and paste the `musical-turtle-xiao.uf2` file onto the new storage device
+5. Copy and paste the `musical-turtle.uf2` file onto the new storage device
 6. The device will reflash its own firmware and then disconnect the storage device. You're now ready to go! 
 7. (Your device may need a power cycle to start correctly the first time; just unplug and replug the USB cable.)
 
