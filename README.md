@@ -78,4 +78,4 @@ WARNING: Do not use the pinout information provided by seeedstudio.
 
 The blank pins on the connection layout must be left floating.
 
-![musical-turtle-xiao pinout](https://i.imgur.com/wzKBnAp.png)
+![musical-turtle-xiao pinout](https://files.jeremyherbert.net/musical-turtle-xiao.png)
